@@ -1,3 +1,5 @@
+Python version: 3.9.21
+
 ### 1. **Library Installation and Imports**
 - Installs required libraries: `torch`, `openpyxl`, and checks `qiskit-machine-learning`.
 - Imports standard Python, pandas, numpy, matplotlib, seaborn, scikit-learn, PyTorch, and Qiskit modules.
