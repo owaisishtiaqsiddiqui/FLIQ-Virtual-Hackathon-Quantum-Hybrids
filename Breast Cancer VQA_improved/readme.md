@@ -1,3 +1,5 @@
+Python version : 3.9.21
+
 ### 1. **Library Installation and Dataset Loading**
 - Installs required libraries (`torch`, `qiskit`).
 - Loads the **Wisconsin Diagnostic Breast Cancer** dataset using `ucimlrepo`.
